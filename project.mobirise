@@ -16,7 +16,12 @@
     "versionFirst": "4.10.15",
     "siteFonts": [],
     "uniqCompNum": 8,
-    "versionPublish": "4.10.15"
+    "versionPublish": "4.10.15",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-157842511-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-157842511-1');\r\n</script>\r\n",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -133,14 +138,14 @@
               "text": "<p class=\"mbr-reviews__p\">Joel and Alex have a great connection, they laugh, chat and Alex loves going to see Joel.\n</p><p class=\"mbr-reviews__p\">Thanks for the coolest styles and great prices.\n</p><p class=\"mbr-reviews__p\">Love it 😍</p>"
             },
             {
-              "authorName": "SUFFIAN A.",
+              "authorName": "Nadia Alex",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
+              "text": "<p class=\"mbr-reviews__p\">Raj is the best barber - both my husband and my son won't go anywhere else ;) he is great with kids and adults.</p>"
             },
             {
-              "authorName": "JHOLLMAN C.",
+              "authorName": "David Collins",
               "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
+              "text": "<p class=\"mbr-reviews__p\">Joel always remembers the cut I like. Easy to speak with and have a laugh. Always a great cut and true value for money. I recommend Barber Raj to all men/boys in the community.</p>"
             }
           ],
           "_tags": [
