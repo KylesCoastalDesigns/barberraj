@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Barber Raj",
-    "currentPage": "index.html",
+    "currentPage": "aboutus.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -60,9 +60,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#222222"
             },
-            ".mbr-navbar__section": {
-              "background": "#222222"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -77,7 +75,7 @@
             "showButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "color": "#222222",
             "hamburgerColor": "#ffffff"
           },
@@ -474,7 +472,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -490,12 +488,12 @@
             "showCaption": "noCaption",
             "showText": false,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpeg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -525,7 +523,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "16",
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -673,9 +671,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#222222"
             },
-            ".mbr-navbar__section": {
-              "background": "#222222"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -690,7 +686,7 @@
             "showButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "color": "#222222",
             "hamburgerColor": "#ffffff"
           },

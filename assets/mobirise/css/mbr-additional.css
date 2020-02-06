@@ -6,9 +6,6 @@
 #menu-a.mbr-navbar--stuck .mbr-navbar__section {
   background: #222222;
 }
-#menu-a .mbr-navbar__section {
-  background: #222222;
-}
 #menu-a .mbr-navbar__hamburger {
   color: #ffffff;
 }
@@ -46,7 +43,7 @@
 
 #content5-b .mbr-header .mbr-header__text {
   text-align: center;
-  color: #000000;
+  color: #ffffff;
 }
 #content5-b .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -77,9 +74,6 @@
   font-size: 16px;
 }
 #menu-a.mbr-navbar--stuck .mbr-navbar__section {
-  background: #222222;
-}
-#menu-a .mbr-navbar__section {
   background: #222222;
 }
 #menu-a .mbr-navbar__hamburger {
