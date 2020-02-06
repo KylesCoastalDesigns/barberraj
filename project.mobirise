@@ -351,6 +351,86 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1580950314213-946x1172.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1580950314213-946x1172-800x991.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1580950333178-946x934.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1580950333178-946x934-800x790.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1580950362619-946x696.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1580950362619-946x696-800x589.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1580950395792-946x939.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1580950395792-946x939-800x794.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1580950419810-946x1174.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1580950419810-946x1174-800x993.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1580950204857-946x1251.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1580950204857-946x1251-800x1058.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1580950225265-946x1168.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1580950225265-946x1168-800x988.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1580950252134-946x1172.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1580950252134-946x1172-800x991.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1580950270963-946x1166.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1580950270963-946x1166-800x986.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1580950293099-946x934.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1580950293099-946x934-800x790.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -392,7 +472,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>3/206 West street<br>2257 Umina Beach, New South Wales<br><br><br><br>Copyright 2020 - 2021",
           "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.facebook.com/barberraj/\" target=\"_blank\">Instagram</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -487,7 +567,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br>3/206 West street<br>2257 Umina Beach, New South Wales<br><br><br><br>Copyright 2020 - 2021",
           "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.facebook.com/barberraj/\" target=\"_blank\">Instagram</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul>",
           "_tags": [
             "Theme"
           ],
