@@ -15,13 +15,25 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
-    "uniqCompNum": 9,
+    "uniqCompNum": 8,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-157842511-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-157842511-1');\r\n</script>\r\n",
-    "siteUrl": "undefined"
+    "siteUrl": "",
+    "cookiesAlert": {
+      "colorText": "#222222",
+      "colorBg": "#ffffff",
+      "colorButton": "#a38f84",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "48",
+      "text": "Welcome to, Barber Raj's Official Website. Website Made By: Kyle Lang"
+    },
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
@@ -223,6 +235,53 @@
               "text": "<p class=\"mbr-reviews__p\">Joel always remembers the cut I like. Easy to speak with and have a laugh. Always a great cut and true value for money. I recommend Barber Raj to all men/boys in the community.</p>"
             }
           ]
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article DIV": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Oppening Hours",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<div>Monday\t9am–6pm\n</div><div>Tuesday\tClosed\n</div><div>Wednesday\t9am–6pm</div><div>Thursday\t9am–6pm\r</div><div>Friday\t9am–6pm\r</div><div>Saturday\t8am–2pm\r</div><div>Sunday\tClosed</div><div><br></div><div><b>TImes Can Change</b></div><div>\n</div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-a"
         },
         {
           "_inherit": "features1",
@@ -499,11 +558,11 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/received-216852729355561-1831x945.jpeg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#282828",
-            "overlay": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
@@ -523,14 +582,19 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br><a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\">3/206 West Street, Umina Beach, NSW 2257</a><br><br><br><br>© Copyright 2020 - 2022",
-          "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><br>",
+          "text1": "<strong>ADDRESS</strong><br><a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\" class=\"text-primary\">3/206 West Street, Umina Beach, NSW 2257</a><br><br><br>© Copyright 2020 - 2022<a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\" class=\"text-primary\"><br></a><br>",
+          "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><a href=\"tel:02 4344 6744\"><br></a><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-3"
+          "_anchor": "contacts1-3",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -541,6 +605,151 @@
         "order": 1
       },
       "components": [
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "text-align": "left"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;About Us",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-c"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "16",
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/received-635572797189521-1024x1024.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "About The Owner<br><br>Joel Raj",
+          "text": "<p>My job is to make a someone look and feel good about them selves using the skills that I have. I’m very honest and open with my clients. I love what I do and that’s why I’m so lucky in my profession. I wake up every morning looking forward to who I get to see and how many different and new styles I get to encounter.\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-d"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "About The Business",
+          "text": "I’ve had my business since 2016 now and I’m always looking for new ways to find clients. I’ve always loved experimenting cuts and changing everyone’s style to make them happy. It’s always about the client for me. They always come first. The chair tells a million stories. I’m always happy to have a chat and always interested to meet new people and talk about their hobbies.&nbsp;<br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-b"
+        },
         {
           "_styles": {
             ".mbr-brand__name": {
@@ -598,11 +807,11 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/received-216852729355561-1831x945.jpeg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#282828",
-            "overlay": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
@@ -622,14 +831,19 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br><a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\">3/206 West Street, Umina Beach, NSW 2257</a><br><br><br><br>© Copyright 2020 - 2022",
-          "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><br>",
+          "text1": "<strong>ADDRESS</strong><br><a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\" class=\"text-primary\">3/206 West Street, Umina Beach, NSW 2257</a><br><br><br>© Copyright 2020 - 2022<a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\" class=\"text-primary\"><br></a><br>",
+          "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><a href=\"tel:02 4344 6744\"><br></a><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-6"
+          "_anchor": "contacts1-6",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     }
