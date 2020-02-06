@@ -1,11 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #ffffff;
 }
 #menu-0 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #3c3c3c;
+}
+#menu-0 .mbr-brand__name a {
+  font-family: 'Lora', serif;
+}
+#header4-1 H1 {
+  color: #3c3c3c;
+}
+#header4-1 P {
+  color: #3c3c3c;
 }
 #content4-2 .mbr-section__col .mbr-header__text {
   text-align: center;
@@ -16,12 +27,16 @@
 #content4-2 P {
   text-align: center;
 }
+
 #menu-5 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-5.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #ffffff;
 }
 #menu-5 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #3c3c3c;
+}
+#menu-5 .mbr-brand__name a {
+  font-family: 'Lora', serif;
 }

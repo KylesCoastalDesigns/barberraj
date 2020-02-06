@@ -40,11 +40,15 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#3c3c3c"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_params": {
@@ -54,8 +58,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "color": "#ffffff",
+            "hamburgerColor": "#3c3c3c"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutus.html\">ABOUT US</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -75,7 +79,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br>Barber Raj</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br>Barber Raj</a>",
           "_tags": [
             "Theme"
           ],
@@ -90,16 +94,19 @@
             "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1549271568-e87e07c5406b-1000x667.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/i9RUPrekz6M?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=i9RUPrekz6M",
+              "width": 1280,
+              "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": "0.3"
           },
@@ -111,21 +118,29 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-1"
+          "_anchor": "header4-1",
+          "_styles": {
+            "H1": {
+              "color": "#3c3c3c"
+            },
+            "P": {
+              "color": "#3c3c3c"
+            }
+          }
         },
         {
           "_params": {
             "showTitle": true,
             "showName": true,
             "showBio": false,
-            "count": 3,
+            "count": "3",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -146,6 +161,16 @@
               "authorName": "David Collins",
               "authorBio": "User",
               "text": "<p class=\"mbr-reviews__p\">Joel always remembers the cut I like. Easy to speak with and have a laugh. Always a great cut and true value for money. I recommend Barber Raj to all men/boys in the community.</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
             }
           ],
           "_tags": [
@@ -470,7 +495,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>3/206 West street<br>2257 Umina Beach, New South Wales<br><br><br><br>Copyright 2020 - 2021",
+          "text1": "<strong>ADDRESS</strong><br><a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\">3/206 West Street, Umina Beach, NSW 2257</a><br><br><br><br>© Copyright 2020 - 2022",
           "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul>",
           "_tags": [
@@ -494,11 +519,15 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#3c3c3c"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_params": {
@@ -508,8 +537,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "color": "#ffffff",
+            "hamburgerColor": "#3c3c3c"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutus.html\">ABOUT US</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
@@ -529,7 +558,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br>Barber Raj</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br>Barber Raj</a>",
           "_tags": [
             "Theme"
           ],
@@ -565,7 +594,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>3/206 West street<br>2257 Umina Beach, New South Wales<br><br><br><br>Copyright 2020 - 2021",
+          "text1": "<strong>ADDRESS</strong><br><a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\">3/206 West Street, Umina Beach, NSW 2257</a><br><br><br><br>© Copyright 2020 - 2022",
           "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul>",
           "_tags": [
