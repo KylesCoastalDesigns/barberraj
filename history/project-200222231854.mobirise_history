@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Barber Raj",
-    "currentPage": "aboutus.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -18,24 +18,21 @@
     "uniqCompNum": 12,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-157842511-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-157842511-1');\r\n</script>\r\n",
-    "siteUrl": false,
+    "siteUrl": "",
     "cookiesAlert": {
       "colorText": "#222222",
       "colorBg": "#ffffff",
-      "colorButton": "#000000",
+      "colorButton": "#a38f84",
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "48",
-      "text": "Welcome to, Barber Raj's Official Website. Powered By: Mythical Development",
-      "customDialogSelector": false,
-      "textButton": "X",
-      "opacityOverlay": "80"
+      "text": "Welcome to, Barber Raj's Official Website. Website Made By: Kyle Lang"
     },
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": false,
+    "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on",
     "gdpr": {
       "colorText": "#a7a7a7",
@@ -43,8 +40,7 @@
       "underlineLink": true,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "imageResize": true,
-    "sitemapSwitcher": false
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -451,7 +447,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br><a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\" class=\"text-primary\">3/206 West Street, Umina Beach, NSW 2257</a><br><br><br>",
           "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><a href=\"tel:02 4344 6744\"><br></a><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul><p><br></p><p><br></p><p>© Copyright 2020 - 2022</p><p><a href=\"https://www.instagram.com/mythical_development/\" target=\"_blank\">Powered By: Mythical Development</a></p><p>\n</p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul><p><br></p><p><br></p><p>© Copyright 2020 - 2022\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -656,7 +652,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br><a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\" class=\"text-primary\">3/206 West Street, Umina Beach, NSW 2257</a><br><br><br>",
           "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><a href=\"tel:02 4344 6744\"><br></a><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul><p><br></p><p><br></p><p>© Copyright 2020 - 2022</p><p><a href=\"https://www.instagram.com/mythical_development/\" target=\"_blank\">Powered By: Mythical Development</a></p><p>\n</p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul><p><br></p><p><br></p><p>© Copyright 2020 - 2022\n</p>",
           "_tags": [
             "Theme"
           ],
