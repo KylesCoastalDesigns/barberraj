@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Barber Raj",
-    "currentPage": "index.html",
+    "currentPage": "aboutus.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
-    "uniqCompNum": 14,
+    "uniqCompNum": 12,
     "versionPublish": "4.12.2",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -44,7 +44,9 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "imageResize": true,
-    "sitemapSwitcher": false
+    "sitemapSwitcher": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -79,7 +81,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "color": "#222222",
             "hamburgerColor": "#ffffff"
@@ -184,7 +186,7 @@
             "showTitle": true,
             "showName": true,
             "showBio": false,
-            "count": "9",
+            "count": "3",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -199,29 +201,29 @@
           "header": "Reviews",
           "items": [
             {
-              "authorName": "Kate Kumar.",
+              "authorName": "Kate Kumar",
               "authorBio": "User",
               "text": "<p class=\"mbr-reviews__p\">Joel and Alex have a great connection, they laugh, chat and Alex loves going to see Joel.\n</p><p class=\"mbr-reviews__p\">Thanks for the coolest styles and great prices.\n</p><p class=\"mbr-reviews__p\">Love it 😍</p>"
             },
             {
-              "authorName": "Nadia Alex.",
+              "authorName": "Nadia Alex",
               "authorBio": "User",
               "text": "<p class=\"mbr-reviews__p\">Raj is the best barber - both my husband and my son won't go anywhere else ;) he is great with kids and adults.</p>"
             },
             {
-              "authorName": "David Collins.",
+              "authorName": "David Collins",
               "authorBio": "User",
               "text": "<p class=\"mbr-reviews__p\">Joel always remembers the cut I like. Easy to speak with and have a laugh. Always a great cut and true value for money. I recommend Barber Raj to all men/boys in the community.</p>"
             },
             {
-              "authorName": "Sarah Johnson.",
+              "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">My son 1 and a half was a bit scared so i held him while they cut his hair. Super lovely and friendly people very good with little children</p>"
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
             },
             {
-              "authorName": "Jack Lewis.",
+              "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">Barber Raj is awesome place to go if youre looking for somewhere that has awesome cuts, great conversations</p>"
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
             }
           ],
           "_tags": [
@@ -231,98 +233,21 @@
           "_anchor": "testimonials1-7",
           "testimonial": [
             {
-              "authorName": "Kate Kumar.",
+              "authorName": "Kate Kumar",
               "authorBio": "User",
               "text": "<p class=\"mbr-reviews__p\">Joel and Alex have a great connection, they laugh, chat and Alex loves going to see Joel.\n</p><p class=\"mbr-reviews__p\">Thanks for the coolest styles and great prices.\n</p><p class=\"mbr-reviews__p\">Love it 😍</p>"
             },
             {
-              "authorName": "Nadia Alex.",
+              "authorName": "Nadia Alex",
               "authorBio": "User",
               "text": "<p class=\"mbr-reviews__p\">Raj is the best barber - both my husband and my son won't go anywhere else ;) he is great with kids and adults.</p>"
             },
             {
-              "authorName": "David Collins.",
+              "authorName": "David Collins",
               "authorBio": "User",
               "text": "<p class=\"mbr-reviews__p\">Joel always remembers the cut I like. Easy to speak with and have a laugh. Always a great cut and true value for money. I recommend Barber Raj to all men/boys in the community.</p>"
-            },
-            {
-              "authorName": "Sarah Johnson.",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">My son 1 and a half was a bit scared so i held him while they cut his hair. Super lovely and friendly people very good with little children</p>"
-            },
-            {
-              "authorName": "Jack Lewis.",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">Barber Raj is awesome place to go if youre looking for somewhere that has awesome cuts, great conversations</p>"
-            },
-            {
-              "authorName": "Samantha Ireland.",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">My son refuses to have anyone else do his hair - Joel always remembers the last conversation they had and what my son likes to talk about, even if it’s been months between cuts. Awesome bloke.</p>"
-            },
-            {
-              "authorName": "Mason Oldfield.",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">Gives all the boys the best bowl cuts! Highly recommend.</p>"
-            },
-            {
-              "authorName": "Shane Beaman.",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">Barber Raj is awesome place to go if youre looking for somewhere that has awesome cuts, great conversation and chilled atmosphere</p>"
-            },
-            {
-              "authorName": "David Collins.",
-              "authorBio": "Developer",
-              "text": "<p class=\"mbr-reviews__p\">Joel always remembers the cut I like. Easy to speak with and have a laugh. Always a great cut and true value for money. I recommend Barber Raj to all men/boys in the community.\n</p>"
             }
           ]
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#000000"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "5 Out Of 5\n",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-d"
         },
         {
           "_styles": {
@@ -767,7 +692,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "color": "#222222",
             "hamburgerColor": "#ffffff"
