@@ -20,7 +20,7 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-157842511-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-157842511-1');\r\n</script>\r\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-149346788-3\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-149346788-3');\n</script>",
     "siteUrl": false,
     "cookiesAlert": {
       "colorText": "#222222",
@@ -29,7 +29,7 @@
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "48",
-      "text": "Welcome to, Barber Raj's Official Website. Powered By: Mythical Development",
+      "text": "Welcome to, Barber Raj's Official Website. Powered By: Kyle's Coastal Designs",
       "customDialogSelector": false,
       "textButton": "X",
       "opacityOverlay": "80"
@@ -222,6 +222,26 @@
               "authorName": "Jack Lewis.",
               "authorBio": "Developer",
               "text": "<p class=\"mbr-reviews__p\">Barber Raj is awesome place to go if youre looking for somewhere that has awesome cuts, great conversations</p>"
+            },
+            {
+              "authorName": "Samantha Ireland.",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">My son refuses to have anyone else do his hair - Joel always remembers the last conversation they had and what my son likes to talk about, even if it’s been months between cuts. Awesome bloke.</p>"
+            },
+            {
+              "authorName": "Mason Oldfield.",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">Gives all the boys the best bowl cuts! Highly recommend.</p>"
+            },
+            {
+              "authorName": "Shane Beaman.",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">Barber Raj is awesome place to go if youre looking for somewhere that has awesome cuts, great conversation and chilled atmosphere</p>"
+            },
+            {
+              "authorName": "David Collins.",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">Joel always remembers the cut I like. Easy to speak with and have a laugh. Always a great cut and true value for money. I recommend Barber Raj to all men/boys in the community.\n</p>"
             }
           ],
           "_tags": [
@@ -528,7 +548,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br><a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\" class=\"text-primary\">3/206 West Street, Umina Beach, NSW 2257</a><br><br><br>",
           "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><a href=\"tel:02 4344 6744\"><br></a><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul><p><br></p><p><br></p><p>© Copyright 2020 - 2022</p><p><a href=\"https://www.mythicaldevelopmentofficial.tk/\" target=\"_blank\">Powered By: Mythical Development</a></p><p>\n</p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul><p><br></p><p><br></p><p>© Copyright 2020 - 2022</p><p><a href=\"https://www.kylescoastaldesigns.tk/\" target=\"_blank\">Powered By: Kyle's Coastal Designs</a></p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -733,7 +753,7 @@
           },
           "text1": "<strong>ADDRESS</strong><br><a href=\"https://www.google.com/maps/place/3%2F206+West+St,+Umina+Beach+NSW+2257/@-33.5220074,151.3202449,17z/data=!3m1!4b1!4m5!3m4!1s0x6b0d4cb3ead13acd:0xfd04236ac92de0c9!8m2!3d-33.5220074!4d151.3224336\" target=\"_blank\" class=\"text-primary\">3/206 West Street, Umina Beach, NSW 2257</a><br><br><br>",
           "text2": "<strong>CONTACTS</strong><br>Phone: <a href=\"tel:02 4344 6744\">02 4344 6744</a><a href=\"tel:02 4344 6744\"><br></a><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul><p><br></p><p><br></p><p>© Copyright 2020 - 2022</p><p><a href=\"https://www.mythicaldevelopmentofficial.tk/\" target=\"_blank\">Powered By: Mythical Development</a></p><p>\n</p>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/barberraj/?ref=page_internal\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/barber_raj/?hl=en\" target=\"_blank\">Instagram</a></li></ul><p><br></p><p><br></p><p>© Copyright 2020 - 2022</p><p><a href=\"https://www.kylescoastaldesigns.tk/\" target=\"_blank\">Powered By: Kyle's Coastal Designs</a></p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
