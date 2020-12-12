@@ -688,12 +688,11 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-siV7so8g3J {
-  z-index: 1000;
-  width: 100%;
+.cid-siV7so8g3J .navbar-dropdown {
+  position: relative !important;
 }
-.cid-siV7so8g3J nav.navbar {
-  position: fixed;
+.cid-siV7so8g3J .navbar-dropdown {
+  position: absolute !important;
 }
 .cid-siV7so8g3J .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -756,7 +755,7 @@ a {
 }
 .cid-siV7so8g3J .dropdown-menu,
 .cid-siV7so8g3J .navbar.opened {
-  background: #ffffff !important;
+  background: #232323 !important;
 }
 .cid-siV7so8g3J .nav-item:focus,
 .cid-siV7so8g3J .nav-link:focus {
@@ -790,7 +789,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0);
+  background: rgba(35, 35, 35, 0);
 }
 .cid-siV7so8g3J .navbar.opened {
   transition: all 0.3s;
@@ -930,7 +929,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-siV7so8g3J .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #232323;
 }
 .cid-siV7so8g3J .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -961,7 +960,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-siV7so8g3J button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1003,7 +1002,6 @@ a {
 }
 .cid-siV7so8g3J .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-siV7so8g3J a.nav-link {
   display: flex;
